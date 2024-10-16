@@ -10,6 +10,9 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 - Twitter: https://x.com/owallet_io
 - Total amount staked: > $1M (https://www.stakingrewards.com/provider/owallet)
 - Total unique delegator: > 200
+- Tenderduty: https://tenderduty.owallet.io
+- Server uptime: https://uptime.owallet.io/status/main
+- Grafana: https://grafana.owallet.io
 
 ## Services Provider
 
