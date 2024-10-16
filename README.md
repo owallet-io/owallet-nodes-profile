@@ -13,6 +13,7 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 - Tenderduty: https://tenderduty.owallet.io
 - Server uptime: https://uptime.owallet.io/status/main
 - Grafana: https://grafana.owallet.io
+- Keybase ID: 4554 D347 D0EB CAA7
 
 ## Services Provider
 
