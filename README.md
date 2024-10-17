@@ -26,24 +26,24 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 
 ## Mainnet
 
-1. **dydx**
-2. **oraichain**
-3. **osmosis**
-4. **cosmos**
-5. **nibiru**
-6. **juno**
-7. **band**
-8. **kyve**
-9. **kava**
-10. **xpla**
-11. **iris**
-12. **quasar**
+1. [**dydx**](/mainnet/dydx.md)
+2. [**oraichain**](/mainnet/oraichain.md)
+3. [**osmosis**](/mainnet/osmosis.md)
+4. [**cosmos**](/mainnet/cosmos.md)
+5. [**nibiru**](/mainnet/nibiru.md)
+6. [**juno**](/mainnet/juno.md)
+7. [**band**](/mainnet/band.md)
+8. [**kyve**](/mainnet/_____.md)
+9. [**kava**](/mainnet/kyve.md)
+10. [**xpla**](/mainnet/xpla.md)
+11. [**iris**](/mainnet/iris.md)
+12. [**quasar**](/mainnet/quasar.md)
 13. more ...
 
 ## Testnet
 
-1. **allora**
-2. **elys**
+1. [**allora**](/testnet/allora.md)
+2. [**elys**](/testnet/elys.md)
 3. **cnho**
 4. **story**
 5. more ...
