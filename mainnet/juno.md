@@ -1,5 +1,26 @@
 # Juno Network
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: junovaloper1avqy4mqg3fexnkcg533qwzc93x4mycdek67wgy
+- Seed: 7ba6ce2c1e86ff6d8b37a0af07f7ce55dd62c591@seeds.owallet.io:36126
+- Software version: v25.0.0
+
+## Staking Information
+
+- Staking Apr: 19.38%
+- Validator commission: 5%
+- Unbonding Time: 28 days
+- Stake UI: [**scanium**](https://scanium.io/juno/staking/junovaloper1avqy4mqg3fexnkcg533qwzc93x4mycdek67wgy) [**mintscan**](https://www.mintscan.io/juno/validators/junovaloper1avqy4mqg3fexnkcg533qwzc93x4mycdek67wgy)
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/juno-network)
+- [x.com](https://twitter.com/JunoNetwork)
+- [github.com](https://github.com/CosmosContracts)
 
 <details>
     <summary>Describle</summary>
@@ -56,10 +77,3 @@ Juno Network is a decentralized, permissionless, and interoperable smart contrac
 ### Summary:
 Juno Network is a smart contract platform within the Cosmos ecosystem, designed to enable developers to build and deploy interoperable decentralized applications and smart contracts. It leverages CosmWasm for efficient contract execution and the IBC protocol for cross-chain interoperability. Juno is fully decentralized and permissionless, with a governance model that gives JUNO token holders control over network upgrades and decisions. As a scalable and highly interoperable blockchain, Juno provides an excellent foundation for DeFi, NFTs, and other dApps, with the added capability of cross-chain interactions.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: junovaloper1avqy4mqg3fexnkcg533qwzc93x4mycdek67wgy
-- Seed: 7ba6ce2c1e86ff6d8b37a0af07f7ce55dd62c591@seeds.owallet.io:36126
-- Software version: v25.0.0

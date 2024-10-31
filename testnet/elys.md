@@ -1,4 +1,18 @@
 # Elys Network
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: elysvaloper1a2673py5cpqr5jvhquxvn7zracaaj0pfgkg6v0
+- Seed: a9a3e0139c86ab70902d740960fd48e28b763650@seeds.owallet.io:13220
+- Software version: v0.46.0
+
+## Staking Information
+
+- Staking Apr: -.-%
+- Validator commission: 10%
+- Stake UI: [**ping.pub**](https://explorer.nodestake.org/elys-testnet/staking/elysvaloper1a2673py5cpqr5jvhquxvn7zracaaj0pfgkg6v0)
+
 ## Project Information
 
 <details>
@@ -60,10 +74,3 @@
 ### Summary:
 Elys Network is a hybrid finance (HyFi) platform that combines the benefits of decentralized and centralized finance to create a versatile trading and asset management ecosystem. Built on the Cosmos SDK, it leverages cross-chain interoperability via IBC to allow seamless trading and asset transfers across blockchains. Elys provides a decentralized exchange (DEX) with liquidity mining, staking, and yield farming opportunities, while also integrating centralized exchange (CEX) features for better liquidity and efficient trading. The native token, ELYS, powers governance, staking, and rewards, ensuring active participation from the community. With its focus on security, transparency, and user experience, Elys Network aims to become a leading DeFi platform in the Cosmos ecosystem.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: elysvaloper1a2673py5cpqr5jvhquxvn7zracaaj0pfgkg6v0
-- Seed: a9a3e0139c86ab70902d740960fd48e28b763650@seeds.owallet.io:13220
-- Software version: v0.46.0

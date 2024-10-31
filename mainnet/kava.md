@@ -1,5 +1,26 @@
 # Kava Network
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: kavavaloper1wpvwxjhfzldfh68p53c2lsv3r6k4yv77gc9722
+- Seed: 0b8ea2f6c5d0d0dea1206f840802405140aa5760@seeds.owallet.io:36139
+- Software version: 0.26.0
+
+## Staking Information
+
+- Staking Apr: 7.55%
+- Validator commission: 5%
+- Unbonding Time: 21 days
+- Stake UI: [**scanium**](https://scanium.io/kava/staking/kavavaloper1wpvwxjhfzldfh68p53c2lsv3r6k4yv77gc9722) [**mintscan**](https://www.mintscan.io/kava/validators/kavavaloper1wpvwxjhfzldfh68p53c2lsv3r6k4yv77gc9722)
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/kava)
+- [x.com](https://twitter.com/KAVA_CHAIN)
+- [github.com](https://github.com/kava-labs)
 
 <details>
     <summary>Describle</summary>
@@ -60,10 +81,3 @@ Kava Network is a decentralized blockchain platform designed to combine the best
 ### Summary:
 Kava Network is a cross-chain, decentralized finance platform designed to provide scalable and secure financial services, including lending, borrowing, and stablecoin issuance. It combines the flexibility of Ethereum with the interoperability and performance of the Cosmos ecosystem. With its dual-chain architecture, cross-chain capabilities, and focus on DeFi, Kava enables users to interact with multiple blockchain networks while benefiting from the security and governance provided by its Proof-of-Stake consensus mechanism. The native KAVA token plays a key role in staking, governance, and securing the network, while USDX, its decentralized stablecoin, powers the ecosystem.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: kavavaloper1wpvwxjhfzldfh68p53c2lsv3r6k4yv77gc9722
-- Seed: 0b8ea2f6c5d0d0dea1206f840802405140aa5760@seeds.owallet.io:36139
-- Software version: 0.26.0

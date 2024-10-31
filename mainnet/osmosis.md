@@ -1,5 +1,29 @@
 # Osmosis
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: osmovaloper1zqevmn000unnjj709akc8p86f9jc4xevf8f8g3
+- Seed: fa7b07914117ac3518aefad5e071705dc89a4c7a@seeds.owallet.io:10002
+- Software version: 26.0.1
+- RPC: [https://osmosis-rpc.owallet.io](https://osmosis-rpc.owallet.io)
+- LCD: [https://osmosis-rest.owallet.io](https://osmosis-rest.owallet.io)
+- GRPC:osmosis-grpc.owallet.io:9999
+
+## Staking Information
+
+- Staking Apr: 9.75%
+- Validator commission: 5%
+- Unbonding Time: 14 days
+- Stake UI: [**scanium**](https://scanium.io/osmo/staking/osmovaloper1zqevmn000unnjj709akc8p86f9jc4xevf8f8g3) [**mintscan**](https://www.mintscan.io/osmo/validators/osmovaloper1zqevmn000unnjj709akc8p86f9jc4xevf8f8g3)
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/osmosis)
+- [x.com](https://twitter.com/osmosiszone)
+- [github](https://github.com/osmosis-labs)
 
 <details>
     <summary>Describle</summary>
@@ -70,13 +94,3 @@
 ### Summary:
 Osmosis is a decentralized exchange (DEX) and automated market maker (AMM) platform built on the Cosmos ecosystem, offering cross-chain asset trading via the IBC protocol. The platform allows users to create customizable liquidity pools, participate in liquidity mining, and earn rewards through superfluid staking. The OSMO token powers governance, staking, and liquidity incentives on the platform. Osmosis focuses on providing a decentralized, interoperable, and flexible trading experience, with a strong emphasis on community-driven governance and cross-chain functionality. Through its innovations in AMM design, superfluid staking, and customizable pools, Osmosis is a leading DeFi platform within the Cosmos ecosystem.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: osmovaloper1zqevmn000unnjj709akc8p86f9jc4xevf8f8g3
-- Seed: fa7b07914117ac3518aefad5e071705dc89a4c7a@seeds.owallet.io:10002
-- Software version: 26.0.0
-- RPC: https://osmosis-rpc.owallet.io/
-- LCD: https://osmosis-rest.owallet.io/
-- GRPC:osmosis-grpc.owallet.io:9999

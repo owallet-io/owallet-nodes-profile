@@ -1,5 +1,31 @@
 # Oraichain
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/orai-chain/asset/orai.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: oraivaloper1q53ujvvrcd0t543dsh5445lu6ar0qr2zv4yhhp
+- Seed: 1c6e0f2b3317fefb772fb528269c151735a5f0cb@seeds.owallet.io:10005
+- Software version: v0.42.4
+- RPC: [https://orai-rpc.owallet.io](https://orai-rpc.owallet.io)
+- LCD: [https://orai-rest.owallet.io](https://orai-rest.owallet.io)
+- GRPC:orai-grpc.owallet.io:9999
+- EvmRpc: [https://orai-evm.owallet.io](https://orai-evm.owallet.io)
+- Snapshot: [https://snapshot.owallet.dev](https://snapshot.owallet.dev)
+
+## Staking Information
+
+- Staking Apr: 14.79%
+- Validator commission: 3%
+- Unbonding Time: 14 days
+- Stake UI: [**scanium**](https://scanium.io/oraichain/staking/oraivaloper1q53ujvvrcd0t543dsh5445lu6ar0qr2zv4yhhp)
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/oraichain-token)
+- [x.com](https://x.com/oraichain)
+- [github.com](https://github.com/oraichain)
 
 <details>
     <summary>Describle</summary>
@@ -72,15 +98,3 @@ Oraichain is an AI-powered, decentralized oracle and blockchain ecosystem that a
 ### Summary:
 Oraichain is a decentralized, AI-powered oracle and blockchain ecosystem that integrates artificial intelligence into smart contracts. It enables AI-driven applications, DeFi, and NFTs by providing AI oracles and services that are interoperable with other blockchains in the Cosmos ecosystem via IBC. Oraichain offers a decentralized AI marketplace, a governance model, and tools for developers to create dApps that utilize AI-enhanced data and services. Through its native token ORAI, the network is secured by a Proof-of-Stake consensus mechanism, allowing users to participate in governance and staking. Oraichain aims to create a powerful AI ecosystem that bridges blockchain technology with real-world AI applications.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: oraivaloper1q53ujvvrcd0t543dsh5445lu6ar0qr2zv4yhhp
-- Seed: 1c6e0f2b3317fefb772fb528269c151735a5f0cb@seeds.owallet.io:10005
-- Software version: v0.42.4
-- RPC: https://orai-rpc.owallet.io/
-- LCD: https://orai-rest.owallet.io/
-- GRPC:orai-grpc.owallet.io:9999
-- EvmRpc: https://orai-evm.owallet.io
-- Snapshot: https://snapshot.owallet.dev

@@ -1,5 +1,30 @@
 # Cosmos
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: cosmosvaloper19qv67gvevp4xw64kmhd6ff6ta2l2ywgfm74xtz
+- Seed: 9cc26184eafedf56156414ffb2118af37b85ed03@seeds.owallet.io:10001
+- Software version: v20.0.0
+- RPC: [https://cosmos-rpc.owallet.io](https://cosmos-rpc.owallet.io)
+- LCD: [https://cosmos-rest.owallet.io](https://cosmos-rest.owallet.io)
+- GRPC: osmosis-grpc.owallet.io:9999
+
+## Staking Information
+
+- Staking Apr: 14.94%
+- Validator commission: 5%
+- Unbonding Time: 21 days
+- Stake UI: [**scanium**](https://scanium.io/cosmos/staking/cosmosvaloper19qv67gvevp4xw64kmhd6ff6ta2l2ywgfm74xtz) [**mintscan**](https://www.mintscan.io/cosmos/validators/cosmosvaloper19qv67gvevp4xw64kmhd6ff6ta2l2ywgfm74xtz)
+
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/cosmos)
+- [x.com](https://twitter.com/cosmos)
+- [github.com](https://github.com/cosmos)
 
 <details>
     <summary>Describle</summary>
@@ -47,13 +72,3 @@ Cosmos is a decentralized network of independent blockchains designed to create 
 
 Cosmos is a rapidly growing network designed to foster a decentralized, scalable, and interoperable blockchain ecosystem. By addressing key limitations in blockchain technology—like scalability, usability, and the ability to interoperate across different chains—Cosmos is helping to advance the entire decentralized ecosystem.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: cosmosvaloper19qv67gvevp4xw64kmhd6ff6ta2l2ywgfm74xtz
-- Seed: 9cc26184eafedf56156414ffb2118af37b85ed03@seeds.owallet.io:10001
-- Software version: v20.0.0
-- RPC: https://cosmos-rpc.owallet.io
-- LCD: https://cosmos-rest.owallet.io
-- GRPC: osmosis-grpc.owallet.io:9999

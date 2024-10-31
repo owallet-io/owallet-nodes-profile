@@ -1,4 +1,21 @@
 # Nibiru
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nibiru/asset/nibi.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: nibivaloper1kfk5zu6p7fec75cpk6f2ttefc9vwjn7nggt5lf
+- Seed: dd5dc125f8350396b0d68d7d45afbf4d05316b26@seeds.owallet.io:36198
+- Software version: v1.5.0
+
+## Staking Information
+
+- Staking Apr: 49.14%
+- Validator commission: 5%
+- Unbonding Time: 21 days
+- Stake UI: [**ping.pub**](https://ping.pub/nibiru/staking/nibivaloper1kfk5zu6p7fec75cpk6f2ttefc9vwjn7nggt5lf)
+
 ## Project Information
 
 <details>
@@ -72,10 +89,3 @@ Nibiru is a decentralized finance (DeFi) platform and blockchain network built t
 ### Summary:
 Nibiru is a decentralized finance (DeFi) platform offering advanced financial products, including derivatives (like perpetual swaps), spot trading, and decentralized lending. Built on the Cosmos SDK, Nibiru focuses on cross-chain compatibility through the IBC protocol, allowing users to interact with multiple blockchain ecosystems. The platform is fully decentralized, with a focus on governance, transparency, and scalability, while its native token, **NIBI**, powers staking, governance, and transaction activities. Through its comprehensive suite of DeFi services, Nibiru aims to provide a decentralized alternative to traditional financial products in a secure and trustless environment.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: nibivaloper1kfk5zu6p7fec75cpk6f2ttefc9vwjn7nggt5lf
-- Seed: dd5dc125f8350396b0d68d7d45afbf4d05316b26@seeds.owallet.io:36198
-- Software version: v1.5.0

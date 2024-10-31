@@ -1,5 +1,26 @@
 # XPLA
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xpla/asset/xpla.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: xplavaloper1y4rtgrdc493qpk63df27rysgpysv430gfawp7w
+- Seed: 9d64b1e3d1ad18aa56e9f32fbaabe652cf9dac4c@seeds.owallet.io:36201
+- Software version: v1.6.0
+
+## Staking Information
+
+- Staking Apr: 8.96%
+- Validator commission: 1%
+- Unbonding Time: 21 days
+- Stake UI: [**scanium**](https://scanium.io/xpla/staking/xplavaloper1y4rtgrdc493qpk63df27rysgpysv430gfawp7w) [**mintscan**](https://www.mintscan.io/xpla/validators/xplavaloper1y4rtgrdc493qpk63df27rysgpysv430gfawp7w)
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/xpla)
+- [x.com](https://twitter.com/XPLA_Official)
+- [github.com](https://github.com/xpladev)
 
 <details>
     <summary>Describle</summary>
@@ -72,10 +93,3 @@
 ### Summary:
 XPLA is a decentralized blockchain platform designed for content creators, developers, and gamers, offering a flexible ecosystem for creating, distributing, and monetizing digital assets. Built on the Cosmos SDK, XPLA provides cross-chain interoperability via IBC, enabling users to interact with assets and applications from multiple blockchains. The platform’s focus on NFTs, gaming, decentralized applications (dApps), and content distribution positions it as a hub for Web3 creators and users. XPLA’s native token is used for governance, staking, and transactions, ensuring security and incentivizing active participation in the network. Through its decentralized governance, scalability, and comprehensive support for digital content, XPLA aims to revolutionize the digital content economy in a decentralized and community-driven manner.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: xplavaloper1y4rtgrdc493qpk63df27rysgpysv430gfawp7w
-- Seed: 9d64b1e3d1ad18aa56e9f32fbaabe652cf9dac4c@seeds.owallet.io:36201
-- Software version: v1.6.0

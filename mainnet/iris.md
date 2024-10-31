@@ -1,5 +1,26 @@
 # Iris Network (IRISnet)
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/iris/asset/iris.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: iva12s6tqnj7dcvt4na2ynrus3sz88m7gj5gr35g6h
+- Seed: dfadf4ec2e84b1a7184f56525b57d37694e46be9@seeds.owallet.io:36226
+- Software version: 3.1.1
+
+## Staking Information
+
+- Staking Apr: 11.72%
+- Validator commission: 1%
+- Unbonding Time: 21 days
+- Stake UI: [**scanium**](https://scanium.io/iris/staking/iva12s6tqnj7dcvt4na2ynrus3sz88m7gj5gr35g6h) [**mintscan**](https://www.mintscan.io/iris/validators/iva12s6tqnj7dcvt4na2ynrus3sz88m7gj5gr35g6h)
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/iris-network)
+- [x.com](https://twitter.com/irisnetwork)
+- [github.com](https://github.com/irisnet)
 
 <details>
     <summary>Describle</summary>
@@ -51,10 +72,3 @@ Iris Network (IRISnet) is a blockchain platform designed to facilitate interoper
 ### Summary:
 IRISnet is a next-generation blockchain platform focused on interoperability, decentralized service architecture, and real-world applications. As a key player in the Cosmos ecosystem, IRISnet enables cross-chain communication through IBC and facilitates the integration of off-chain business services with decentralized applications. Its architecture, combined with decentralized governance and a comprehensive suite of developer tools, makes it a promising platform for building and connecting distributed systems across different industries and blockchains.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: iva12s6tqnj7dcvt4na2ynrus3sz88m7gj5gr35g6h
-- Seed: dfadf4ec2e84b1a7184f56525b57d37694e46be9@seeds.owallet.io:36226
-- Software version: 3.1.1

@@ -1,5 +1,26 @@
 # dYdX
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dydx/asset/dydx.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: dydxvaloper1kuyezvy89hcr96q597ftuc4z03hrcftu5jy2pv
+- Seed: 563632544fbd66a50dda89c21d5415e5197c10b9@seeds.owallet.io:36238
+- Software version: 6.0.4
+
+## Staking Information
+
+- Staking Apr: 11.81%
+- Validator commission: 5%
+- Unbonding Time: 30 days
+- Stake UI: [**scanium**](https://scanium.io/dydx/staking/dydxvaloper1kuyezvy89hcr96q597ftuc4z03hrcftu5jy2pv) [**mintscan**](https://www.mintscan.io/dydx/validators/dydxvaloper1kuyezvy89hcr96q597ftuc4z03hrcftu5jy2pv)
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/dydx-chain)
+- [x.com](https://twitter.com/dydx)
+- [github.com](https://github.com/dydxprotocol/)
 
 <details>
     <summary>Describle</summary>
@@ -55,10 +76,3 @@ In its latest developments, dYdX is transitioning to a fully decentralized V4 pl
 ### Summary:
 dYdX is one of the leading platforms for decentralized derivatives trading, offering leveraged perpetual contracts, margin trading, and spot trading in a decentralized, non-custodial manner. Its use of Layer 2 scaling ensures low fees and fast transactions, making it accessible to both retail and institutional traders. The dYdX protocol continues to innovate, with plans to expand its capabilities and fully decentralize through its move to a standalone blockchain with Cosmos technology.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: dydxvaloper1kuyezvy89hcr96q597ftuc4z03hrcftu5jy2pv
-- Seed: 563632544fbd66a50dda89c21d5415e5197c10b9@seeds.owallet.io:36238
-- Software version: 6.0.4

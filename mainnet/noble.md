@@ -1,4 +1,14 @@
 # Noble
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png)
+
+## Service Information
+
+- Software version: 7.0.0
+- Rpc: [https://noble-rpc.owallet.io](https://noble-rpc.owallet.io)
+- Lcd: [https://noble-rest.owallet.io](https://noble-rest.owallet.io)
+- Grpc: noble-grpc.owallet.io:9999
+
 ## Project Information
 
 <details>
@@ -58,10 +68,3 @@
 ### Summary:
 Noble is a decentralized platform within the Cosmos ecosystem that enables the issuance of asset-backed tokens, including stablecoins, tokenized real-world assets, and other digital assets. It focuses on interoperability, using the IBC protocol to allow tokens to move freely across blockchains. Noble provides a compliant, secure, and customizable environment for asset issuance, making it suitable for institutions and DeFi projects alike. Through its decentralized governance and cross-chain capabilities, Noble empowers users and organizations to issue and manage tokens efficiently within the Cosmos ecosystem and beyond.
 </details>
-
-## Service Information
-
-- Software version: 7.0.0
-- Rpc: https://noble-rpc.owallet.io
-- Lcd: https://noble-rest.owallet.io
-- Grpc: noble-grpc.owallet.io:9999

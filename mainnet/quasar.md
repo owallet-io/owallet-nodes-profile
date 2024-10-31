@@ -1,5 +1,26 @@
 # Quasar
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quasar/asset/qsr.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: quasarvaloper1fkwdhe9l445zyyhazqaxwqf8mnjen5l8gh2hxk
+- Seed: 34ae36d75efd0ca73f0d646a7df64e426a6a5671@seeds.owallet.io:36182
+- Software version: 3.0.0
+
+## Staking Information
+
+- Staking Apr: 0%
+- Validator commission: 5%
+- Unbonding Time: 21 days
+- Stake UI: [**scanium**](https://scanium.io/quasar/staking/quasarvaloper1fkwdhe9l445zyyhazqaxwqf8mnjen5l8gh2hxk) [**mintscan**](https://www.mintscan.io/quasar/validators/quasarvaloper1fkwdhe9l445zyyhazqaxwqf8mnjen5l8gh2hxk)
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/quasar-2)
+- [x.com](https://twitter.com/quasarfi)
+- [github.com](https://github.com/quasar-finance)
 
 <details>
     <summary>Describle</summary>
@@ -70,10 +91,3 @@
 ### Summary:
 Quasar is a decentralized asset management protocol built on the Cosmos ecosystem that enables users to pool their assets into flexible, customizable vaults for managing digital assets across multiple blockchains. By leveraging the Inter-Blockchain Communication (IBC) protocol, Quasar supports cross-chain asset management, allowing users to participate in staking, yield farming, and liquidity provision across various networks. The platform is non-custodial, permissionless, and operates under a decentralized governance model, with the native QSR token used for governance, staking, and rewards. Quasar’s focus on interoperability, scalability, and decentralized finance positions it as a key player in the evolving DeFi ecosystem, offering users innovative ways to manage and optimize their assets.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: quasarvaloper1fkwdhe9l445zyyhazqaxwqf8mnjen5l8gh2hxk
-- Seed: 34ae36d75efd0ca73f0d646a7df64e426a6a5671@seeds.owallet.io:36182
-- Software version: 3.0.0

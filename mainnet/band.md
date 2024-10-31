@@ -1,5 +1,26 @@
 # Band Protocol
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: bandvaloper1xg5qq37zrdtsaf5qa60xhlj6xqnxafuhnr934u
+- Seed: d92339ba44856f40fd4597bacd5bda979355cdee@seeds.owallet.io:36229
+- Software version: 2.5.4
+
+## Staking Information
+
+- Staking Apr: 13.60%
+- Validator commission: 1%
+- Unbonding Time: 21 days
+- Stake UI: [**scanium**](https://scanium.io/band/staking/bandvaloper1xg5qq37zrdtsaf5qa60xhlj6xqnxafuhnr934u) [**mintscan**](https://www.mintscan.io/band/validators/bandvaloper1xg5qq37zrdtsaf5qa60xhlj6xqnxafuhnr934u)
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/band-protocol)
+- [x.com](https://twitter.com/BandProtocol)
+- [github.com](https://github.com/bandprotocol)
 
 <details>
     <summary>Describle</summary>
@@ -22,10 +43,3 @@ Here are some key features of Band Protocol:
 
 Overall, Band Protocol is focused on becoming a reliable bridge between real-world data and decentralized applications across multiple blockchains.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: bandvaloper1xg5qq37zrdtsaf5qa60xhlj6xqnxafuhnr934u
-- Seed: d92339ba44856f40fd4597bacd5bda979355cdee@seeds.owallet.io:36229
-- Software version: 2.5.4

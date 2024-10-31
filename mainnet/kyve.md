@@ -1,5 +1,26 @@
 # KYVE Network
+
+![logo](https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kyve/asset/kyve.png)
+
+## Service Information
+
+- Moniker: OWALLET
+- Validator address: kyvevaloper13rss4u93ygr9wjtq55akvacfhmqdutqw8anfn9
+- Seed: 7da0a17c154572a5453a0052059b30f7a69fa208@seeds.owallet.io:36110
+- Software version: v1.5.0
+
+## Staking Information
+
+- Staking Apr: 20.95%
+- Validator commission: 5%
+- Unbonding Time: 21 days
+- Stake UI: [**scanium**](https://scanium.io/kyve/staking/kyvevaloper13rss4u93ygr9wjtq55akvacfhmqdutqw8anfn9) [**mintscan**](https://www.mintscan.io/kyve/validators/kyvevaloper13rss4u93ygr9wjtq55akvacfhmqdutqw8anfn9)
+
 ## Project Information
+
+- [coingecko](https://www.coingecko.com/en/coins/kyve-network)
+- [x.com](https://twitter.com/KYVENetwork)
+- [github.com](https://github.com/KYVENetwork)
 
 <details>
     <summary>Describle</summary>
@@ -59,10 +80,3 @@ KYVE Network is a decentralized data protocol designed to provide reliable, dece
 ### Summary:
 KYVE Network is a decentralized protocol designed to provide reliable and scalable data archiving, storage, and validation services for Web3 applications and blockchains. By leveraging technologies like Arweave for permanent decentralized storage and incorporating cross-chain interoperability through IBC, KYVE ensures that data remains accessible, secure, and tamper-proof. KYVE is ideal for blockchain projects that need to store large datasets, historical records, or off-chain data in a decentralized and verifiable way, offering an incentive-based model for validators and storage providers.
 </details>
-
-## Service Information
-
-- Moniker: OWALLET
-- Validator address: kyvevaloper13rss4u93ygr9wjtq55akvacfhmqdutqw8anfn9
-- Seed: 7da0a17c154572a5453a0052059b30f7a69fa208@seeds.owallet.io:36110
-- Software version: 0.26.0
