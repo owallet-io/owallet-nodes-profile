@@ -7,7 +7,7 @@
 - Moniker: OWALLET
 - Validator address: dydxvaloper1kuyezvy89hcr96q597ftuc4z03hrcftu5jy2pv
 - Seed: 563632544fbd66a50dda89c21d5415e5197c10b9@seeds.owallet.io:36238
-- Software version: 6.0.4
+- Software version: 6.0.9
 
 ## Staking Information
 

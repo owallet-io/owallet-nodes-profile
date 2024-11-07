@@ -4,10 +4,10 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 
 - Moniker: OWALLET
 - Website: [https://owallet.io](https://owallet.io)
-- Slack: phu.tx@orai.io
+- Slack: ---
+- Telegram: ---
+- Discord: ---
 - Email: infra@orai.io
-- Telegram: megaorai
-- Discord: tranphu.dev
 - Twitter: [https://x.com/owallet_io](https://x.com/owallet_io)
 - Total amount staked: > $1.5M
 - Total unique delegator: > 222

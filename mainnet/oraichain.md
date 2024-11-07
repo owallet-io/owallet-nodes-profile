@@ -12,7 +12,7 @@
 - LCD: [https://orai-rest.owallet.io](https://orai-rest.owallet.io)
 - GRPC:orai-grpc.owallet.io:9999
 - EvmRpc: [https://orai-evm.owallet.io](https://orai-evm.owallet.io)
-- Snapshot: [https://snapshot.owallet.dev](https://snapshot.owallet.dev)
+- Snapshot: [https://snapshot.owallet.io](https://snapshot.owallet.io)
 
 ## Staking Information
 

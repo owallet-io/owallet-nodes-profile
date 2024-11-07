@@ -7,7 +7,7 @@
 - Moniker: OWALLET
 - Validator address: cosmosvaloper19qv67gvevp4xw64kmhd6ff6ta2l2ywgfm74xtz
 - Seed: 9cc26184eafedf56156414ffb2118af37b85ed03@seeds.owallet.io:10001
-- Software version: v20.0.0
+- Software version: v21.0.0
 - RPC: [https://cosmos-rpc.owallet.io](https://cosmos-rpc.owallet.io)
 - LCD: [https://cosmos-rest.owallet.io](https://cosmos-rest.owallet.io)
 - GRPC: osmosis-grpc.owallet.io:9999
