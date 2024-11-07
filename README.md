@@ -5,7 +5,7 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 - Moniker: OWALLET
 - Website: [https://owallet.io](https://owallet.io)
 - Slack: ---
-- Telegram: ---
+- Telegram: [https://t.me/owallet_io](https://t.me/owallet_io)
 - Discord: ---
 - Email: infra@orai.io
 - Twitter: [https://x.com/owallet_io](https://x.com/owallet_io)
