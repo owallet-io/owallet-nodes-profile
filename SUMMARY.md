@@ -8,6 +8,7 @@
   * [cosmos](mainnet/cosmos.md)
   * [nibiru](mainnet/nibiru.md)
   * [juno](mainnet/juno.md)
+  * [kujira](mainnet/kujira.md)
   * [band](mainnet/band.md)
   * [kyve](mainnet/kyve.md)
   * [kava](mainnet/kava.md)
