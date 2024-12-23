@@ -5,12 +5,12 @@
 - Moniker: OWALLET
 - Validator address: elysvaloper1a2673py5cpqr5jvhquxvn7zracaaj0pfgkg6v0
 - Seed: a9a3e0139c86ab70902d740960fd48e28b763650@seeds.owallet.io:13220
-- Software version: v0.46.0
+- Software version: v1.4.0
 
 ## Staking Information
 
 - Staking Apr: -.-%
-- Validator commission: 10%
+- Validator commission: 5%
 - Stake UI: [**ping.pub**](https://explorer.nodestake.org/elys-testnet/staking/elysvaloper1a2673py5cpqr5jvhquxvn7zracaaj0pfgkg6v0)
 
 ## Project Information

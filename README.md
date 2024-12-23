@@ -9,8 +9,8 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 - Discord: ---
 - Email: infra@orai.io
 - Twitter: [https://x.com/owallet_io](https://x.com/owallet_io)
-- Total amount staked: > $1.5M
-- Total unique delegator: > 222
+- Total amount staked: > $2.5M
+- Total unique delegator: > 460
 - Tenderduty: [https://tenderduty.owallet.io](https://tenderduty.owallet.io)
 - Server uptime: [https://uptime.owallet.io/status/main](https://uptime.owallet.io/status/main)
 - Grafana: [https://grafana.owallet.io](https://grafana.owallet.io)
@@ -39,15 +39,16 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 10. [**xpla**](/mainnet/xpla.md)
 11. [**iris**](/mainnet/iris.md)
 12. [**quasar**](/mainnet/quasar.md)
-13. more ...
+13. [**kujira**](/mainnet/kujira.md)
+14. [**elys**](/mainnet/elys.md)
+15. [**comdex**](mainnet/comdex.md)
+16. [**kichain**](mainnet/kichain.md)
+17. [**agoric**](mainnet/agoric.md)
+18. [**firmachain**](mainnet/firmachain.md)
 
 ## Testnet
 
 1. [**allora**](/testnet/allora.md)
-2. [**elys**](/testnet/elys.md)
-3. **cnho**
-4. **story**
-5. more ...
 
 | Core Responsibilities      | Technical Requirements   | Challenges          |
 |----------------------------|--------------------------|---------------------|
