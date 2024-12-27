@@ -22,8 +22,9 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 - Public Endpoints
 - Addrbook
 - Snapshots
-- Peers
+- [Seed | Peer](/seeds.md)
 - Auto-compound
+- [IBC Relayer](https://relayers.smartstake.io/relayer/4554D347D0EBCAA7)
 
 ## Mainnet
 

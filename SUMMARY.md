@@ -23,3 +23,4 @@
   * [firmachain](mainnet/firmachain.md)
 * [Testnet](download.md)
   * [allora](testnet/allora.md)
+* [Seeds / Peers](/seeds.md)  
