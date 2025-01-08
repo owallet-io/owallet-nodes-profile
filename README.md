@@ -9,8 +9,8 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 - Discord: ---
 - Email: infra@orai.io
 - Twitter: [https://x.com/owallet_io](https://x.com/owallet_io)
-- Total amount staked: > $2.5M
-- Total unique delegator: > 460
+- Total amount staked: > $3.5M
+- Total unique delegator: > 555
 - Tenderduty: [https://tenderduty.owallet.io](https://tenderduty.owallet.io)
 - Server uptime: [https://uptime.owallet.io/status/main](https://uptime.owallet.io/status/main)
 - Grafana: [https://grafana.owallet.io](https://grafana.owallet.io)
