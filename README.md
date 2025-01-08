@@ -28,10 +28,10 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 
 ## Mainnet
 
-1. [**dydx**](/mainnet/dydx.md)
-2. [**oraichain**](/mainnet/oraichain.md)
-3. [**osmosis**](/mainnet/osmosis.md)
-4. [**cosmos**](/mainnet/cosmos.md)
+1. [**dydx**](/mainnet/dydx.md) ✪
+2. [**oraichain**](/mainnet/oraichain.md) ✪
+3. [**osmosis**](/mainnet/osmosis.md) ✪
+4. [**cosmos**](/mainnet/cosmos.md) ✪
 5. [**nibiru**](/mainnet/nibiru.md)
 6. [**juno**](/mainnet/juno.md)
 7. [**band**](/mainnet/band.md)
@@ -44,7 +44,7 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 14. [**elys**](/mainnet/elys.md)
 15. [**comdex**](mainnet/comdex.md)
 16. [**kichain**](mainnet/kichain.md)
-17. [**agoric**](mainnet/agoric.md)
+17. [**agoric**](mainnet/agoric.md) ✪
 18. [**firmachain**](mainnet/firmachain.md)
 
 ## Testnet
