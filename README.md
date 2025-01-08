@@ -37,9 +37,9 @@ We're operating highly secure, fast and stable validator nodes for many mainnet 
 7. [**band**](/mainnet/band.md)
 8. [**kyve**](/mainnet/kyve.md)
 9. [**kava**](/mainnet/kava.md)
-10. [**xpla**](/mainnet/xpla.md)
+10. [~~**xpla**~~] *stopped*
 11. [**iris**](/mainnet/iris.md)
-12. [**quasar**](/mainnet/quasar.md)
+12. [~~**quasar**~~] *stopped*
 13. [**kujira**](/mainnet/kujira.md)
 14. [**elys**](/mainnet/elys.md)
 15. [**comdex**](mainnet/comdex.md)
