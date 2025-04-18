@@ -4,8 +4,14 @@
 
 - Moniker: OWALLET
 - Validator address: elysvaloper1a2673py5cpqr5jvhquxvn7zracaaj0pfgkg6v0
-- Seed: a9a3e0139c86ab70902d740960fd48e28b763650@seeds.owallet.io:13220
-- Software version: v1.4.0
+- Software version: v2.3.0
+
+## Endpoint
+
+- seed: a9a3e0139c86ab70902d740960fd48e28b763650@seeds.owallet.io:13220
+- rpc: https://elys-rpc.owallet.io/
+- lcd (api): https://elys-rest.owallet.io/
+- grpc: grpcui -plaintext elys-grpc.owallet.io:9999
 
 ## Staking Information
 
